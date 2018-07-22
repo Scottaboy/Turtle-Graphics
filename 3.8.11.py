@@ -7,7 +7,7 @@ Created on Mon Jul  2 13:32:58 2018
 
 import turtle
 wn=turtle.Screen()
-wn.bgcolor("blue")
+wn.bgcolor("green")
 tess=turtle.Turtle()
 
 
